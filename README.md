@@ -1,7 +1,5 @@
 # MG_Sample
 
-# Work Sample
-
 Welcome to my repository! In here is a sample of my work and recent programming projects that I have made. 
 
 ## Contents
